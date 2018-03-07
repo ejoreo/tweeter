@@ -1,0 +1,19 @@
+{
+  "name": "tweeter",
+  "version": "0.0.1",
+  "description": "tbd",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejoreo/tweeter.git"
+  },
+  "author": " <http://github.com/ejoreo>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ejoreo/tweeter/issues"
+  },
+  "homepage": "https://github.com/ejoreo/tweeter#readme"
+}
